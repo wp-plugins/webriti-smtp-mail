@@ -4,7 +4,7 @@ Tags:email, gmail, mail, mail smtp, outgoing mail, phpmailer, privacy, security,
 
 Stable tag: 1.1
 Requires at least: 3.3+
-Tested up to: 3.8.1
+Tested up to: 3.9
 License: GPLv2 or later
 version:1.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
