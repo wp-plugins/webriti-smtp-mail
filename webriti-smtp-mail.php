@@ -4,7 +4,7 @@ Plugin Name: Easy SMTP Mail
 Version: 1.3
 Plugin URI: http://webriti.com/
 Description: the wp_mail() function to use SMTP and set your SMTP settings or your wp_mail() function no need any configuration.
-Author: a.ankit,priyanshu.mittal
+Author: priyanshu.mittal
 Author URI: http://webriti.com/
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl.html
