@@ -1,5 +1,5 @@
 === Easy SMTP Mail ===
-Contributors:harimaliya,priyanshu.mittal
+Contributors:priyanshu.mittal
 Tags:email, gmail, mail, mail smtp, outgoing mail, phpmailer, privacy, security, sendmail, smtp, ssl, tls, wordpress smtp, wp smtp, wp-phpmailer, wp_mail
 Requires at least: 3.0
 Tested up to: 4.0
