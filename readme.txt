@@ -2,7 +2,7 @@
 Contributors:harimaliya,priyanshu.mittal
 Tags:email, gmail, mail, mail smtp, outgoing mail, phpmailer, privacy, security, sendmail, smtp, ssl, tls, wordpress smtp, wp smtp, wp-phpmailer, wp_mail
 
-Stable tag: 1.5
+Stable tag: 1.5.1
 Requires at least: 3.3+
 Tested up to: 4.1
 License: GPLv2 or later
